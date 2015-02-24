@@ -1,8 +1,8 @@
-##############################################################################
-# file name : HelloGitCommandTest
-# Creator   : Jaehong Park
-# Email     : jaehong1972@gmail.com
-##############################################################################
+
+A.file name  :README.md 
+B.Creator    :Jaehong Park 
+C.Description:This guides the purpose of this project
+
 
 This respository is for newbies for testing git termail commands on pc.
 You can feel free to use and test any git command in this repository.
