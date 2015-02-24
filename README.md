@@ -20,5 +20,4 @@ On this project, the files are as followings:
  5. GitCommandGuideDoc-English.txt: Guide Git commands in English.
  6. Source file: HelloWorld.c
  7. Makefile
-# 8. Source file: HelloWorld.cpp
 
